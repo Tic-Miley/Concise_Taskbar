@@ -1,15 +1,15 @@
 ## Appearance
 
 <div align="center">
-  <img src="https://github.com/Tic-Miley/Soda/blob/main/images/show_taskbar.png" width="800" alt="Taskbar">
+  <img src="https://github.com/Concise_Taskbar/Soda/blob/main/images/show_taskbar.png" width="800" alt="Taskbar">
 </div>
 
 <div align="center">
-  <img src="https://github.com/Tic-Miley/Soda/blob/main/images/show_on_desktop.png" width="800" alt="Taskbar on Desktop">
+  <img src="https://github.com/Concise_Taskbar/Soda/blob/main/images/show_on_desktop.png" width="800" alt="Taskbar on Desktop">
 </div>
 
 <div align="center">
-  <img src="https://github.com/Tic-Miley/Soda/blob/main/images/show_on_edge.png" width="800" alt="Taskbar on Edge">
+  <img src="https://github.com/Concise_Taskbar/Soda/blob/main/images/show_on_edge.png" width="800" alt="Taskbar on Edge">
 </div>
 
 1. UI Components (Tkinter labels, buttons, layout)
