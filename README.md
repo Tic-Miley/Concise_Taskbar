@@ -1,3 +1,17 @@
+## Appearance
+
+<div align="center">
+  <img src="https://github.com/Tic-Miley/Soda/blob/main/images/show_taskbar.png" width="800" alt="Taskbar">
+</div>
+
+<div align="center">
+  <img src="https://github.com/Tic-Miley/Soda/blob/main/images/show_on_desktop.png" width="800" alt="Taskbar on Desktop">
+</div>
+
+<div align="center">
+  <img src="https://github.com/Tic-Miley/Soda/blob/main/images/show_on_edge.png" width="800" alt="Taskbar on Edge">
+</div>
+
 1. UI Components (Tkinter labels, buttons, layout)
 2. System Monitoring (power, volume, time, date)
 3. Event Handlers (keyboard shortcuts, button actions)
